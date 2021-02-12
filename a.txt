@@ -6,3 +6,6 @@ fifth change
 sixth commit
 7 change
 8 change
+7 Seventh  change
+merge test
+new amend change
