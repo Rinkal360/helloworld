@@ -9,3 +9,4 @@ sixth commit
 7 Seventh  change
 merge test
 new amend change
+last line
